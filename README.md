@@ -34,8 +34,8 @@ Follow these instructions to get a copy of the project up and running on your lo
    - Import the project by selecting **File > Open Projects from File System...** and navigating to the cloned repository.
 
 3. **Build and Run**:
-   - Once the project is loaded, build the project by selecting Project > Build Project in Eclipse or using the build command in your chosen IDE.
-   - Run the application by selecting Run > Run.
+   - Once the project is loaded, build the project by selecting **Project > Build Project** in Eclipse or using the **build command** in your chosen IDE.
+   - Run the application by selecting **Run > Run**.
 
 ### Usage
 
