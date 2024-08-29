@@ -24,7 +24,7 @@ public class CounterView extends JFrame {
 	public CounterView() {
 		// TODO Auto-generated constructor stub
 		counterModel = new CounterModel();
-		init();
+		this.init();
 		this.setVisible(true);
 	}
 
